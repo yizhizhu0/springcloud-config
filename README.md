@@ -1,2 +1,2 @@
 # springcloud-config
-微服务配置中心
+微服务的配置中心
